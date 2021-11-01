@@ -1,1 +1,3 @@
-const log = 'init';
+let log = 'init';
+
+log = 'aaaa';
