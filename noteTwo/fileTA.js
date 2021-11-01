@@ -5,3 +5,5 @@ log = 'aaaa';
 log = 'bbbb';
 
 log = 'cccc';
+
+log = 'dddd';
