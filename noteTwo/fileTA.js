@@ -7,3 +7,7 @@ log = 'bbbb';
 log = 'cccc';
 
 log = 'dddd';
+
+log = 'eeee';
+
+log = 'ffff';
